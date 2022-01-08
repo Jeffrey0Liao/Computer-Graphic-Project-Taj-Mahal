@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animation" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera" Collapsed="true">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQCAgwAAJAABAYgQgAYQEAAAAAAQIAEBAAgIgAAgYE=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayableObject" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAEAICAIYACAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DisplayableObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine" Collapsed="true">
+    <Position X="1.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAUBAAAAAJQECwQgAgAQCAMCiAAASAAAJAgAEBAAIII=</HashCode>
+      <FileName>Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hat" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAYAEAAAACAAAAAAAAAQAACAABAAAAABEBAAAAAAA=</HashCode>
+      <FileName>Hat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAJAAAAQgAAAQAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainBuilding" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAACAAAAAgAAAAAAUAACAAEAAAAAAAAAABAAAA=</HashCode>
+      <FileName>MainBuilding.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyScene" Collapsed="true">
+    <Position X="1.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>MyScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pillar" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAAEBAFAEAAAAAAAEAAA=</HashCode>
+      <FileName>Pillar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene" Collapsed="true">
+    <Position X="1.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACApAAAwQggAAQIAIAQQAAAgAAAAgEAAAQIAA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Texture" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAEAAgAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TexturedCube" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAYAAAEAAAAAAAAAAAAQAAAAAAAAAAABAAAAEAgAA=</HashCode>
+      <FileName>TexturedCube.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAYAAAABAAAAAAAQBAASAACAABAAQAABAAAAgAgAA=</HashCode>
+      <FileName>Wall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tagBITMAPFILEHEADER" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAACAAAAAAAAAAAAAAhAAAAAIAAAAA=</HashCode>
+      <FileName>E:\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagBITMAPINFOHEADER" Collapsed="true">
+    <Position X="1.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAQAAABAAIAgAAAAAAAQAAAAABAABEEAAA=</HashCode>
+      <FileName>E:\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="BITMAPFILEHEADER" Collapsed="true">
+    <Position X="8.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PBITMAPFILEHEADER" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="BITMAPINFOHEADER" Collapsed="true">
+    <Position X="1.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
