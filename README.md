@@ -23,13 +23,14 @@ blocks in OpenGL.
 7. Diverse viewpoint will be designated to deliver a better presentation.
 
 ## Dependencies
-* stb_images
+* [stb_images](https://github.com/nothings/stb)
 
 ## Source Code Hierarchy
-
+![sample of bottom-up code structure](https://github.com/Jeffrey0Liao/Computer-Graphic-Project-Taj-Mahal/blob/main/resources/h2.JPG "sample of bottom-up code structure")
+![class diagram](https://github.com/Jeffrey0Liao/Computer-Graphic-Project-Taj-Mahal/blob/main/resources/h1.JPG)
 ## Usage
 
 ## Demo
-
+![demo](https://github.com/Jeffrey0Liao/Computer-Graphic-Project-Taj-Mahal/blob/main/resources/r.JPG)
 ##
-For full report, please visit 
+For full report, please visit [here](https://github.com/Jeffrey0Liao/Computer-Graphic-Project-Taj-Mahal/blob/main/CG_2020_20030694_REPORT.pdf)
